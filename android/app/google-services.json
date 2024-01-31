@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1077450271684",
+    "project_id": "bicyclerental-aa44e",
+    "storage_bucket": "bicyclerental-aa44e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1077450271684:android:980df4acbbd03224799291",
+        "android_client_info": {
+          "package_name": "com.jawad.userbicyclerental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrvRCYpY7wQUVo5h8ijpvwAfM2JxgRj5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
